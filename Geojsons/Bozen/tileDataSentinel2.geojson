@@ -1,0 +1,160 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [10.314035280374382, 46.94616825397537],
+                    [11.755584916064224, 46.920536388192055],
+                    [11.706254333045143, 45.93349650488509],
+                    [10.290484068727272, 45.95826451839171],
+                    [10.314035280374382, 46.94616825397537]
+                ]
+            ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+            "waterpercentage": 0.296117,
+            "beginposition": "2018-06-23T10:10:29.024000Z",
+            "processinglevel": "Level-2A",
+            "producttype": "S2MSI2A",
+            "platformname": "Sentinel-2",
+            "id": "9102386a-83e2-4bad-9e46-e2dec76bd6a4",
+            "processingbaseline": "02.08",
+            "size": "1.11 GB",
+            "link_alternative": "https://scihub.copernicus.eu/apihub/odata/v1/Products('9102386a-83e2-4bad-9e46-e2dec76bd6a4')/",
+            "instrumentshortname": "MSI",
+            "title": "S2B_MSIL2A_20180623T101029_N0208_R022_T32TPS_20180623T131922",
+            "orbitdirection": "DESCENDING",
+            "filename": "S2B_MSIL2A_20180623T101029_N0208_R022_T32TPS_20180623T131922.SAFE",
+            "cloudcoverpercentage": 7.234149,
+            "platformidentifier": "2017-013A",
+            "snowicepercentage": 5.112977,
+            "vegetationpercentage": 72.344142,
+            "format": "SAFE",
+            "relativeorbitnumber": 22,
+            "link": "https://scihub.copernicus.eu/apihub/odata/v1/Products('9102386a-83e2-4bad-9e46-e2dec76bd6a4')/$value",
+            "orbitnumber": 6769,
+            "s2datatakeid": "GS2B_20180623T101029_006769_N02.08",
+            "unclassifiedpercentage": 2.9768669999999995,
+            "uuid": "9102386a-83e2-4bad-9e46-e2dec76bd6a4",
+            "instrumentname": "Multi-Spectral Instrument",
+            "link_icon": "https://scihub.copernicus.eu/apihub/odata/v1/Products('9102386a-83e2-4bad-9e46-e2dec76bd6a4')/Products('Quicklook')/$value",
+            "platformserialidentifier": "Sentinel-2B",
+            "endposition": "2018-06-23T10:10:29.024000Z",
+            "notvegetatedpercentage": 11.015609,
+            "summary": "Date: 2018-06-23T10:10:29.024Z, Instrument: MSI, Mode: , Satellite: Sentinel-2, Size: 1.11 GB",
+            "ingestiondate": "2018-06-23T14:45:02.755000Z",
+            "highprobacloudspercentage": 3.955723,
+            "identifier": "S2B_MSIL2A_20180623T101029_N0208_R022_T32TPS_20180623T131922",
+            "mediumprobacloudspercentage": 2.513156
+        }
+    }, {
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [10.27495435175723, 46.85767893831839],
+                    [10.30532983082734, 46.93872303620182],
+                    [10.357252878738043, 47.085283359334966],
+                    [10.408956369865017, 47.231974087756925],
+                    [10.45392361347914, 47.35812880889753],
+                    [10.440149824410023, 46.85663988190739],
+                    [10.27495435175723, 46.85767893831839]
+                ]
+            ]
+        },
+        "type": "Feature",
+        "id": 1,
+        "properties": {
+            "waterpercentage": 0.041102,
+            "beginposition": "2018-06-23T10:10:29.024000Z",
+            "processinglevel": "Level-2A",
+            "producttype": "S2MSI2A",
+            "platformname": "Sentinel-2",
+            "id": "650c2e15-532c-482a-a652-34ecc83c713e",
+            "processingbaseline": "02.08",
+            "size": "57.87 MB",
+            "link_alternative": "https://scihub.copernicus.eu/apihub/odata/v1/Products('650c2e15-532c-482a-a652-34ecc83c713e')/",
+            "instrumentshortname": "MSI",
+            "title": "S2B_MSIL2A_20180623T101029_N0208_R022_T32TNT_20180623T131922",
+            "orbitdirection": "DESCENDING",
+            "filename": "S2B_MSIL2A_20180623T101029_N0208_R022_T32TNT_20180623T131922.SAFE",
+            "cloudcoverpercentage": 5.928931,
+            "platformidentifier": "2017-013A",
+            "snowicepercentage": 7.078292000000001,
+            "vegetationpercentage": 63.891155,
+            "format": "SAFE",
+            "relativeorbitnumber": 22,
+            "link": "https://scihub.copernicus.eu/apihub/odata/v1/Products('650c2e15-532c-482a-a652-34ecc83c713e')/$value",
+            "orbitnumber": 6769,
+            "s2datatakeid": "GS2B_20180623T101029_006769_N02.08",
+            "unclassifiedpercentage": 5.564452,
+            "uuid": "650c2e15-532c-482a-a652-34ecc83c713e",
+            "instrumentname": "Multi-Spectral Instrument",
+            "link_icon": "https://scihub.copernicus.eu/apihub/odata/v1/Products('650c2e15-532c-482a-a652-34ecc83c713e')/Products('Quicklook')/$value",
+            "platformserialidentifier": "Sentinel-2B",
+            "endposition": "2018-06-23T10:10:29.024000Z",
+            "notvegetatedpercentage": 16.16215,
+            "summary": "Date: 2018-06-23T10:10:29.024Z, Instrument: MSI, Mode: , Satellite: Sentinel-2, Size: 57.87 MB",
+            "ingestiondate": "2018-06-23T14:40:07.785000Z",
+            "highprobacloudspercentage": 2.735682,
+            "identifier": "S2B_MSIL2A_20180623T101029_N0208_R022_T32TNT_20180623T131922",
+            "mediumprobacloudspercentage": 3.1932499999999995
+        }
+    }, {
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [11.751199950491062, 46.834819897928625],
+                    [11.750277335346148, 46.832642659700426],
+                    [10.31188688551243, 46.85818197246455],
+                    [10.33660021997006, 47.84592105208886],
+                    [11.802846682924509, 47.81947440295927],
+                    [11.751199950491062, 46.834819897928625]
+                ]
+            ]
+        },
+        "type": "Feature",
+        "id": 2,
+        "properties": {
+            "waterpercentage": 0.439428,
+            "beginposition": "2018-06-16T10:20:19.024000Z",
+            "processinglevel": "Level-2A",
+            "producttype": "S2MSI2A",
+            "platformname": "Sentinel-2",
+            "id": "bbee7dab-ddb8-4921-87e1-7bcacec50971",
+            "processingbaseline": "02.08",
+            "size": "1.11 GB",
+            "link_alternative": "https://scihub.copernicus.eu/apihub/odata/v1/Products('bbee7dab-ddb8-4921-87e1-7bcacec50971')/",
+            "instrumentshortname": "MSI",
+            "title": "S2B_MSIL2A_20180616T102019_N0208_R065_T32TPT_20180616T162410",
+            "orbitdirection": "DESCENDING",
+            "filename": "S2B_MSIL2A_20180616T102019_N0208_R065_T32TPT_20180616T162410.SAFE",
+            "cloudcoverpercentage": 6.176204,
+            "platformidentifier": "2017-013A",
+            "snowicepercentage": 5.038501,
+            "vegetationpercentage": 74.058765,
+            "format": "SAFE",
+            "relativeorbitnumber": 65,
+            "link": "https://scihub.copernicus.eu/apihub/odata/v1/Products('bbee7dab-ddb8-4921-87e1-7bcacec50971')/$value",
+            "orbitnumber": 6669,
+            "s2datatakeid": "GS2B_20180616T102019_006669_N02.08",
+            "unclassifiedpercentage": 2.671381,
+            "uuid": "bbee7dab-ddb8-4921-87e1-7bcacec50971",
+            "instrumentname": "Multi-Spectral Instrument",
+            "link_icon": "https://scihub.copernicus.eu/apihub/odata/v1/Products('bbee7dab-ddb8-4921-87e1-7bcacec50971')/Products('Quicklook')/$value",
+            "platformserialidentifier": "Sentinel-2B",
+            "endposition": "2018-06-16T10:20:19.024000Z",
+            "notvegetatedpercentage": 8.69817,
+            "summary": "Date: 2018-06-16T10:20:19.024Z, Instrument: MSI, Mode: , Satellite: Sentinel-2, Size: 1.11 GB",
+            "ingestiondate": "2018-06-16T18:08:55.222000Z",
+            "highprobacloudspercentage": 4.116178,
+            "identifier": "S2B_MSIL2A_20180616T102019_N0208_R065_T32TPT_20180616T162410",
+            "mediumprobacloudspercentage": 1.741331
+        }
+    }]
+}
