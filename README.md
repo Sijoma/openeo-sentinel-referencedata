@@ -62,3 +62,7 @@ Json:
     }
 }
 ```
+
+## Geojsons
+
+To improve access and I added geojsons, this way one can inspect the data more quickly.
