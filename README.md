@@ -65,7 +65,7 @@ Json:
 
 ## Geojsons
 
-To improve access and I added geojsons, this way one can inspect the data more quickly.
+To improve access I added geojsons. This way one can inspect the data more quickly.
 
 ## Download
 
