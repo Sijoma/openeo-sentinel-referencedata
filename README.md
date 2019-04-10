@@ -65,4 +65,35 @@ Json:
 
 ## Geojsons
 
-To improve access and I added geojsons, this way one can inspect the data more quickly.
+To improve access I added geojsons. This way one can inspect the data more quickly.
+
+## Download
+
+The tiles can be downloaded with the sentinelsat CLI or the Python API (https://github.com/sentinelsat/sentinelsat)
+Documentation: <https://sentinelsat.readthedocs.io/en/stable/cli.html#quickstart>
+
+### Python
+
+A python and bash script is made available in this repository. These scripts download all tiles using the uid stored inside the *uids.txt*. Both scripts require input parameters and login credentials from https://scihub.copernicus.eu/
+
+```python
+python download_reference_data.py <targetfolder> <user> <password> 
+```
+
+### Bash 
+```bash
+sh download_reference_data.sh uids.txt <user> <password>
+```
+
+### CLI 
+To download single files, the CLI is a great choice.
+
+Single tile with one unique id. 
+```bash
+sentinelsat -u <user> -p <password> --uid acfc1852-ab3a-460a-93eb-bae846fd05da -d 
+```
+
+Multiple tiles:
+```bash
+sentinelsat -u <user> -p <password> --uuid acfc1852-ab3a-460a-93eb-bae846fd05da,62096380-ea68-42f1-b02d-fa34b611b754
+```
