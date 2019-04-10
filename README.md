@@ -1,6 +1,6 @@
 # Sentinel reference dataset for the OpenEO backend validation
 
-The aim of this dataset is to have a common base of data to validate the OpenEO processes. It consists of Sentinel 1, 2 and 3 data and has a total size of around 54 GB.
+The aim of this dataset is to have a common base of data to validate the OpenEO processes. It consists of Sentinel 1, 2 and 3 data and has a total size of around 50 GB.
 
 ## Overview
 
@@ -16,8 +16,8 @@ Json:
 {
     "referenceDatasets": {
         "Sentinel-1": {
-            "uids": ["a45d5bbe-6919-49fc-84fd-72a7634d2035"],
-            "size": "4.66G"
+            "uids": ["ed5c9c38-b8a4-4744-8c8f-b9a9258c90e9"],
+            "size": "1.62 GB"
         },
         "Sentinel-2": {
             "Single": {
