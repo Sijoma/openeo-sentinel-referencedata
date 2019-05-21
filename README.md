@@ -1,6 +1,6 @@
 # Sentinel reference dataset for the OpenEO backend validation
 
-The aim of this dataset is to have a common base of data to validate the OpenEO processes. It consists of Sentinel 1, 2 and 3 data and has a total size of around 50 GB.
+The aim of this dataset is to have a common base of data to validate the OpenEO processes. It consists of Sentinel 1, 2 and 3 data.
 
 ## Overview
 
@@ -9,7 +9,7 @@ The aim of this dataset is to have a common base of data to validate the OpenEO 
 
 ## Unique identifiers
 
-The uids are stored inside uids.txt and delimited by a newline. They can also be retrieved from the ReferenceData.json
+The uids are stored inside uids.txt and delimited by a newline. They can also be retrieved from the ReferenceData.json. The JSON and GeoJSONs are not updated for the added Sentinel 1 tiles. 
 
 Json:
 ```json
@@ -65,7 +65,7 @@ Json:
 
 ## Geojsons
 
-To improve access I added geojsons. This way one can inspect the data more quickly.
+To improve access I added geojsons for Sentinel 2 data. This way one can inspect the data more quickly.
 
 ## Download
 
